@@ -23,7 +23,3 @@ variable "number_of_instances" {
   default = 1
 }
 
-variable "public_key" {
-  type = string
-  default = vars.key
-}

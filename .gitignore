@@ -39,3 +39,4 @@ override.tf.json
 terraform.rc
 public_key.tf
 .tfplan
+gb_key*
