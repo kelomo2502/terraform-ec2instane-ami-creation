@@ -37,4 +37,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-variable.tf
+public_key.tf
