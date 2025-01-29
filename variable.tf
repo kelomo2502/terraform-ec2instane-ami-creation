@@ -22,3 +22,8 @@ variable "number_of_instances" {
   type    = number
   default = 1
 }
+
+variable "public_key" {
+  type = string
+  default = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG47BFg3apIX7SbRuDhzsDAd5GuzwkdKccYN74SFT7EH Gbenga@Gbenga"
+}
